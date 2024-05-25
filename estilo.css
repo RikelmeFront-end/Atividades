@@ -4,7 +4,7 @@ h2{
 
 .botao {
     background-color: red; /* Cor de fundo */
-    color: white;
+    color: #ffff;
    max-width: 500px; /* Largura maxima */
     height: 20px; /* Altura */
    margin: 0 auto; /* 0 -> Altura | auto -> Largura */
